@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/koushik4411" target="blank"><img src="https://img.shields.io/twitter/follow/koushik4411?logo=twitter&style=for-the-badge" alt="koushik4411" /></a> </p>
 
-- 🌱 I’m currently learning **Machine** and **DeepLearning **
+- 🌱 I’m currently learning **Machine** and **DeepLearning**
 
 - 📫 How to reach me **koushik395@gmail.com**
 
