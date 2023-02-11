@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Machine** and **DeepLearning**
 
-- 📫 How to reach me **koushik395@gmail.com**
+- 📫 How to reach me **20131a4411@gvpce.ac.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
