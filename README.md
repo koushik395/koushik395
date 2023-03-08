@@ -21,7 +21,8 @@
 <a href="https://www.hackerrank.com/20131a4411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="20131a4411" height="30" width="40" /></a>
 <a href="https://discord.gg/0255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="0255" height="30" width="40" /></a>
 </p>
-
+Leet Code Profile
+![LeetCode Stats](https://leetcode.card.workers.dev/koushik395?theme=wtf&font=baloo&extension=null)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=koushik395&show_icons=true&locale=en&layout=compact" alt="koushik395" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=koushik395&show_icons=true&locale=en" alt="koushik395" /></p>
