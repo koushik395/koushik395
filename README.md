@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **20131a4411@gvpce.ac.in**
 
-- 📄 View my Developer Resume [Click Here](https://drive.google.com/file/d/1fWW1XI-CS5bdLn6OY2L6cllvfhfT2eH8/view?usp=drive_link)
+- 📄 View my Developer Resume [Click Here](https://drive.google.com/file/d/1juHNhXAgEKSF2cd2JokhhiXlyah26vgN/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
