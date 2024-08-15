@@ -11,7 +11,7 @@
 
 - 🤝 [World Wise](https://projectk-world-wise.netlify.app/)
 
-- 📫 How to reach me **20131a4411@gvpce.ac.in**
+- 📫 How to reach me **koushik395@gmail.com**
 
 - 📄 View my Developer Resume [Click Here](https://drive.google.com/file/d/1juHNhXAgEKSF2cd2JokhhiXlyah26vgN/view?usp=drive_link)
 
